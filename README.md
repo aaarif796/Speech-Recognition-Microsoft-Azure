@@ -1,11 +1,12 @@
 # Speech-Recognition-Microsoft-Azure
- This Python program uses Azure Cognitive Services Speech SDK to detect if a user's pronunciation matches a given text. It transcribes the user's speech from an audio file and compares it with the provided text to determine if the pronunciation is correct.
+ This Python program uses Azure Cognitive Services Speech SDK to detect if a user's pronunciation matches a given text. It transcribes the user's speech from an audio file and compares it with the provided text to determine if the pronunciation is correct. The program also includes a graphical user interface (GUI) built with tkinter for ease of use.
 
 ## Features
 
 - Speech-to-Text Transcription: Converts user's speech from an audio file into written text using Azure Speech Services.
 - Pronunciation Comparison: Compares the recognized text with the given text to evaluate pronunciation correctness.
 - Case-Insensitive Comparison: Pronunciation comparison is case-insensitive to accommodate variations in speech.
+- Graphical User Interface (GUI): Provides an intuitive GUI powered by tkinter for a seamless user experience.
 
 ## Getting Started
 
